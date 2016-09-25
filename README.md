@@ -134,3 +134,28 @@ Your job in this problem is to create a new Python script `epsg_finder.py` that:
 # Answers
 
 ## Problem 1
+
+1. & 2.
+
+Using a list of string variables is useful if you only need to store the names or titles of something. However if you would
+need to use the variables in the list to calculate something you might run into problems.
+3. 
+This kind of a list could be useful in for example creating a list of sample locations. You could add location data to each variable on the list.
+
+
+## Problem 2
+
+1. 
+
+I think you could just print strings containing the characters needed to form the flag without having to use a for loop. 
+
+2. 
+
+Again this method could be useful for creating a list of sample locations or perhaps for displaying information for some linear study method, e.g. depth of water table along a line.
+
+## Problem 3
+
+1. & 2.
+
+I used if, elif, and else structure so that the code would look neat and be easily readable. I could have also used nested if and else statements but that would have caused the code to have multiple layers of intendation and it would have looked messy.
+Simple is beautiful.
