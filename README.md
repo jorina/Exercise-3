@@ -142,6 +142,7 @@ need to use the variables in the list to calculate something you might run into 
 3. 
 This kind of a list could be useful in for example creating a list of sample locations. You could add location data to each variable on the list.
 
+:dog: ok, 7 pts
 
 ## Problem 2
 
@@ -153,9 +154,15 @@ I think you could just print strings containing the characters needed to form th
 
 Again this method could be useful for creating a list of sample locations or perhaps for displaying information for some linear study method, e.g. depth of water table along a line.
 
+:dog: alright, 8 pts
+
 ## Problem 3
 
 1. & 2.
 
 I used if, elif, and else structure so that the code would look neat and be easily readable. I could have also used nested if and else statements but that would have caused the code to have multiple layers of intendation and it would have looked messy.
 Simple is beautiful.
+
+:dog: exactly ;-) 5 pts
+
+:dog: total 20 / 20 pts
